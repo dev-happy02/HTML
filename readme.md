@@ -19,20 +19,23 @@
 ```
 
 ## tags
-
+```html
 The component used to design the structure of websites are called HTML tags.
 
 Html tag is parent of head & body tag
 Most of html elements have opening & closing tags with content in between
 Some tags have no content in between, eg - <br>
-
+```
 
 
 ### Basic Structure Tags 
+
+```html
 <html>         <!-- Root element of an HTML document -->
 <head>         <!-- Contains metadata, links, and title -->
 <title>        <!-- Sets the title shown in browser tab -->
 <body>         <!-- Contains all visible content on the page -->
+```
 
 
 
